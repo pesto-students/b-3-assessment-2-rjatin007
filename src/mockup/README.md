@@ -60,3 +60,8 @@ You will be graded on
 - covering all edge cases (errors / invalid input etc.)
 - responsiveness
 - completion of all requirements of MVP
+
+# Solution
+
+- Design Solution Link : [Link](https://whitwood.invisionapp.com/freehand/WeatherApp-oJf9jAvo)
+- App used : InvisionApp
